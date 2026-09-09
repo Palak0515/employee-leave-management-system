@@ -3,14 +3,20 @@ Employee Leave Management System is a console-based application for managing emp
 
 ## Tech Stack
 Java
+<br>
 JDBC (Java Database Connectivity)
+<br>
 MySQL
 
 ## Features
 Employee management
+<br>
 Leave application and management
+<br>
 Store and retrival of employee and leave records
+<br>
 MySQL database integration using JDBC
+<br>
 Perform database operations using SQL
 
 ## Project Structure
@@ -26,10 +32,15 @@ Employee-Leave-Management-System/
 
 ## Setup
 Clone the repository.
+<br>
 Create a MySQL database.
+<br>
 Import the required SQL tables/database.
+<br>
 Update the database connection details in the Java code.
+<br>
 Add the MySQL JDBC driver to the project.
+<br>
 Compile and run the Java application.
 
 ## Purpose
