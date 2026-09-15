@@ -20,15 +20,15 @@ MySQL database integration using JDBC
 Perform database operations using SQL
 
 ## Project Structure
-Employee-Leave-Management-System/
-│
-├── src/
-│   └── Java source files
-│
-├── database/
-│   └── SQL files
-│
-└── README.md
+Employee-Leave-Management-System/<br>
+│<br>
+├── src/<br>
+│   └── Java source files<br>
+│<br>
+├── database/<br>
+│   └── SQL files<br>
+│<br>
+└── README.md<br>
 
 ## Setup
 Clone the repository.
