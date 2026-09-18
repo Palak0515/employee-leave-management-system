@@ -24,8 +24,6 @@ Employee-Leave-Management-System/<br>
 │<br>
 ├── src/<br>
 │   └── Java source files<br>
-│<br>
-├── database/<br>
 │   └── SQL files<br>
 │<br>
 └── README.md<br>
